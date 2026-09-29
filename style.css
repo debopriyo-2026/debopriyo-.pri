@@ -1,0 +1,27 @@
+Body {
+    margin: 0;
+    font-family: "Baloo tamma 2", sans-serif;
+}
+
+/* Full width navbar */
+.navbar {
+    background:#222;
+    border-top: 2px solid #f2a900;
+    padding: 12px 40px !important;
+}
+
+/* Logo */
+.navbar-brand {
+    color:aliceblue !important;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff !important;
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid #f2a900 !important;
+}
